@@ -4,6 +4,6 @@
 dockerPipeline(
     appName: 'product',
     devHostPort: '1000',
-    stageHostPort: '1002'
+    stageHostPort: '1002',
     contPort: '8132'
 )
